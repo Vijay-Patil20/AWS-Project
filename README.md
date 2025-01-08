@@ -28,7 +28,7 @@ Based on the checks above, the script performs the following actions:
 
 ### Deploy the Lambda Function:
 
-1. Upload the lambda_handler.py script to your preferred deployment platform (e.g., AWS Serverless Application Model - SAM).
+1. Upload the ebs_stale_snapshosts.py script to your preferred deployment platform.
 2. Configure the Lambda function to trigger periodically (e.g., daily) or on demand.
 
 ## Benefits
